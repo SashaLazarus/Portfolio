@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #cab9e4;
+  }
+  p{
+    text-align: center;
+    font-family:cursive;
+  }
+  img{
+    border: 2px solid black ;
+  }
+  head{
+    text-align: center;
+    font-family: cursive;
+    
+  }
+  table{
+    font-family: cursive;
+  }
+  h2{
+    font-family:fantasy:
+  }
+  li{
+    font-family:cursive;
+  }
+table,tr,td,th{border:#6a1dde 2px solid}
+table{margin:auto; width:70%; margin-top: 20px;}
+.media{margin:50px ;margin-bottom:40px ;border: 1px solid salmon ;background-image: radial-gradient(orange rgb(39, 17, 180));box-shadow:rgb(108, 11, 138) ;
+border-radius: 10%;padding: 12px;float: left;align-content: center;width: 22%;height: auto;}
+.header-section{align-content: center;margin: auto;width: 80%; height: 20%;}
+img{width: auto;height: 20%;border: solid 3px orange;}
+.media img{width: 90%;height: 80%;border-radius:10% ;margin: 12px 2px 20x;}
+.media p{padding:5px ;text-align: center;color: #6a1dde;font-size: 20px;}
+video{width: 95%;height: 190px;border: #6a1dde 3px solid}
+audio{width: 95%;height: 50px;}
+nav{float: right;margin-top: 10px;font-size: 24px;}
+nav a{padding: 20px 20px;text-decoration: none;}
+.inline{display: inline-block;}
+header{box-shadow: 12px 10px 10px rgb(9, 29, 176);}
+#logo h5{float: right;margin-top: 30px;font-size: 20px;}
